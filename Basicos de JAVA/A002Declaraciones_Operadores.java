@@ -26,7 +26,5 @@ public class A002Declaraciones_Operadores {
 		double cm=6;
 		double result= cm/pulgadas;
 		System.out.println("En "+cm+" centimetros hay "+result+" pulgadas");
-	
 	}
-
 }
