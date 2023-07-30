@@ -14,8 +14,6 @@ public class A003Calculos_Math {
 		num1= entrada.nextFloat();
 		resultado=Math.round(num1);  //redonde un numero dado por el usuario
 		System.out.println("El redondeo de "+num1+" Es igual a "+resultado);
-		
-	
 	}
 
 }
